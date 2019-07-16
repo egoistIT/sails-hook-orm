@@ -33,7 +33,7 @@
     "parley": "^3.3.2",
     "prompt": "0.2.14",
     "sails-disk": "^1.1.0",
-    "waterline": "^0.14.0-0",
+    "waterline": "git+https://git@github.com/egoistIT/waterline.git#master",
     "waterline-utils": "^1.0.0"
   },
   "sails": {
